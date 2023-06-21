@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVC_projeto_gamer
+build_property.RootNamespace = MVC_projeto_gamer
+build_property.ProjectDir = C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-GamerMVCTeste\PraticaMVC-master\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-GamerMVCTeste\PraticaMVC-master
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Luiz/Desktop/SENAI Dev - Arquivos/Atividades back-end/CSharp-GamerMVCTeste/PraticaMVC-master/Views/Equipe/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz/Desktop/SENAI Dev - Arquivos/Atividades back-end/CSharp-GamerMVCTeste/PraticaMVC-master/Views/Equipe/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlXGluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz/Desktop/SENAI Dev - Arquivos/Atividades back-end/CSharp-GamerMVCTeste/PraticaMVC-master/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz/Desktop/SENAI Dev - Arquivos/Atividades back-end/CSharp-GamerMVCTeste/PraticaMVC-master/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz/Desktop/SENAI Dev - Arquivos/Atividades back-end/CSharp-GamerMVCTeste/PraticaMVC-master/Views/Jogador/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz/Desktop/SENAI Dev - Arquivos/Atividades back-end/CSharp-GamerMVCTeste/PraticaMVC-master/Views/Jogador/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz/Desktop/SENAI Dev - Arquivos/Atividades back-end/CSharp-GamerMVCTeste/PraticaMVC-master/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz/Desktop/SENAI Dev - Arquivos/Atividades back-end/CSharp-GamerMVCTeste/PraticaMVC-master/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz/Desktop/SENAI Dev - Arquivos/Atividades back-end/CSharp-GamerMVCTeste/PraticaMVC-master/Views/Shared/_Layout.BACKUP.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuQkFDS1VQLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz/Desktop/SENAI Dev - Arquivos/Atividades back-end/CSharp-GamerMVCTeste/PraticaMVC-master/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz/Desktop/SENAI Dev - Arquivos/Atividades back-end/CSharp-GamerMVCTeste/PraticaMVC-master/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz/Desktop/SENAI Dev - Arquivos/Atividades back-end/CSharp-GamerMVCTeste/PraticaMVC-master/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz/Desktop/SENAI Dev - Arquivos/Atividades back-end/CSharp-GamerMVCTeste/PraticaMVC-master/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6j5rkshrh1

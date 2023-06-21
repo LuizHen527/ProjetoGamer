@@ -1,0 +1,38 @@
+@model Equipe
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edicao de equipe</h1>
+
+@if(ViewBag.UserName == null)
+{
+    <a asp-area="" asp-controller="Login" asp-action="Index">Login</a>
+}
+else{
+
+
+@* Colocar o form do index mudar action para atualizar *@
+
+
+
+
+
+
+
+
+<form method="post" action="@Url.Action("Atualizar")" enctype="multipart/form-data">
+
+    <input type="hidden" name="idEquipe" value="@ViewBag.Equipe.IdEquipe">
+
+    <label for="">Nome</label>
+    <input type="text" name="Nome" value="@ViewBag.Equipe.Nome">
+
+    <label for="">Imagem</label>
+    <input type="file" name="Imagem" value="@ViewBag.Equipe.Imagem">
+
+    <button type="submit"></button>
+
+</form>
+}
